@@ -1,0 +1,13 @@
+# Image to text
+
+1) search for https://www.kaggle.com/
+
+2) create a new notebook
+
+3) upload the "image to text.pynb" file to notebook
+
+4) Right side of Notebook, "Add Input"
+
+5) Search for "flickr8k" dataset and addd it
+
+6) run the code
